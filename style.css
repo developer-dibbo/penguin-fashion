@@ -1,0 +1,20 @@
+* {
+    font-family: Roboto;
+}
+
+h1,
+h2,
+h3 {
+    font-family: Bebas Neue;
+}
+
+/*.container {
+
+    width: 1440px;
+    margin: auto;
+}
+*/
+span {
+    color: #170C79;
+    font-family: Bebas Neue;
+}
